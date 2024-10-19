@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  background-color: #141414;
+}
+.custom-cursor {
+  cursor: url("assets/blank-black.jpg"), auto; /* Replace with your cursor URL */
+}
